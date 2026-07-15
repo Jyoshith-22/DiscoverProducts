@@ -151,4 +151,3 @@ npm run preview
 
 GitHub: https://github.com/Jyoshith-22
 
-LinkedIn: https://www.linkedin.com/in/uddandi-jyoshith-sai
